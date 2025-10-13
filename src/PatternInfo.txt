@@ -1,0 +1,13 @@
+Creational Patterns:
+- flexibility in object creation
+[Factory, Abstract Factory, Singleton, Builder]
+
+
+Structural Patterns:
+- How objects relate to each other, "blueprints" larger structures from individual pieces
+[Facade, Adapter, Decorator, Proxy]
+
+
+Behavioural Patterns:
+- Communication between objects, interaction, and responsibility distribution
+[Strategy, Observer, State, Visitor]
