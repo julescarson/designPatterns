@@ -1,6 +1,9 @@
 Creational Patterns:
 - flexibility in object creation
 [Factory, Abstract Factory, Singleton, Builder]
+-- Singleton: single instance of an object, e.g., Logger() write to file ~ accessible globally, has testing and threading issues
+-- Builder: method chaining, in any order, e.g., constructor too many params, or step-by-step object creation
+-- Factory: Simplify object creation, update factory to update object creation, creating multiple related types of objects, simple objects then regular constructor is fine
 
 
 Structural Patterns:
