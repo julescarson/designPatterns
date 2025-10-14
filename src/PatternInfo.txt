@@ -9,7 +9,7 @@ Creational Patterns:
 Structural Patterns:
 - How objects relate to each other, "blueprints" larger structures from individual pieces
 [Facade, Adapter, Decorator, Proxy]
-
+-- Facade: e.g., "buy now" button (many things happening in the background) hide complexity
 
 Behavioural Patterns:
 - Communication between objects, interaction, and responsibility distribution
