@@ -13,7 +13,7 @@
 - Proxy
 
 ### Behavioural
-- Strategy
+- Strategy ✅
 - Observer
 - State
 - Visitor
