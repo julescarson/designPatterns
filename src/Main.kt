@@ -3,8 +3,7 @@ package designPatterns;
 import designPatterns.abstractFactoryPattern.abstractFactoryMain
 import designPatterns.factoryPattern.factoryMain
 import designPatterns.facade.facadeMain
-
-
+import designPatterns.singleton.singletonMain
 
 
 fun main() {
@@ -16,5 +15,8 @@ fun main() {
 
     // Facade Pattern
     facadeMain()
+
+    // Singleton Pattern
+    singletonMain()
 
 }

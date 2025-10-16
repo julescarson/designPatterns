@@ -4,6 +4,7 @@ package designPatterns.facade
 //facade class "ShapeMaker"
 
 fun facadeMain(){
+    println("Facade Pattern:")
     val shapeMaker = ShapeMaker()
     shapeMaker.drawCircle()
     shapeMaker.drawRectangle()
