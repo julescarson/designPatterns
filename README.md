@@ -3,11 +3,11 @@
 ### Creational
 - Factory ✅
 - Abstract Factory ✅
-- Singleton
+- Singleton ✅
 - Builder
 
 ### Structural
-- Facade
+- Facade ✅
 - Adapter
 - Decorator
 - Proxy
