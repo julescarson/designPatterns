@@ -1,7 +1,8 @@
 package designPatterns.singleton
 
 fun singletonMain() {
-    println("\n Singleton main():")
+    println("\nSingleton Pattern:")
     SingleObject.display()
 //    singleObject2.display()
+    println("-")
 }

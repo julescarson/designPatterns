@@ -1,0 +1,20 @@
+Behavioural Pattern
+
+* we are executing a strategy based on a context
+.. context.executeStrategy
+.. context takes in a strategy object, and based on that strategy, our operation changes
+*good example of polymorphism
+
+Behaviour Pattern:
+- With the strategy pattern a class behaviour or algorithm can be changed at runtime
+- Create objects to represent strategies
+- Add a context object whose behaviour varies per its strategy object
+- Strategy object changes the executing algorithm of the context object
+
+In this package:
+- Strategy Interface - definition of an operation
+- Concrete Strategy class - implementation of the interface
+- Context - class which uses a Strategy
+- in Main: Context and strategy objects demonstrating change in context behaviour
+
+

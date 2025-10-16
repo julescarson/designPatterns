@@ -4,6 +4,7 @@ import designPatterns.abstractFactoryPattern.abstractFactoryMain
 import designPatterns.factoryPattern.factoryMain
 import designPatterns.facade.facadeMain
 import designPatterns.singleton.singletonMain
+import designPatterns.strategyPattern.strategyMain
 
 
 fun main() {
@@ -18,5 +19,8 @@ fun main() {
 
     // Singleton Pattern
     singletonMain()
+
+    // Strategy Pattern
+    strategyMain()
 
 }

@@ -9,4 +9,5 @@ fun facadeMain(){
     shapeMaker.drawCircle()
     shapeMaker.drawRectangle()
     shapeMaker.drawSquare()
+    println("-")
 }
