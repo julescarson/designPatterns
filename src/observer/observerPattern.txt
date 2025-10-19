@@ -1,0 +1,9 @@
+Observer Design Pattern - Behavioural
+
+for one to many relationship between objects
+one object is modified, then dependent objects are notified automatically
+
+Actor classes [Subject, Observer, Client]
+Subject attaches and detaches observers to a client
+
+
