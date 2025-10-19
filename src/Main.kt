@@ -3,6 +3,7 @@ package designPatterns;
 import designPatterns.abstractFactoryPattern.abstractFactoryMain
 import designPatterns.factoryPattern.factoryMain
 import designPatterns.facade.facadeMain
+import designPatterns.observer.observerMain
 import designPatterns.singleton.singletonMain
 import designPatterns.strategyPattern.strategyMain
 
@@ -23,4 +24,6 @@ fun main() {
     // Strategy Pattern
     strategyMain()
 
+    // Observer Pattern
+    observerMain()
 }

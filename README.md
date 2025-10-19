@@ -14,7 +14,7 @@
 
 ### Behavioural
 - Strategy ✅
-- Observer
+- Observer ✅
 - State
 - Visitor
 
