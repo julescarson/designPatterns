@@ -16,7 +16,7 @@
 - Strategy ✅
 - Observer ✅
 - State
-- Visitor
+- Visitor ✅
 
 
 

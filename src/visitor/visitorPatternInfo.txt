@@ -1,5 +1,13 @@
 Behavioural Design Pattern - Visitor Pattern
 
+
+separate algorithms / behaviours from the objects on which they operate
+e.g., client objects
+adding messaging requires the clients "accept" a visitor in the objects themselves
+
+
 visitor class changes execution of an element class,
 the element object has to accept a visitor object,
-visitor object handles operation on the element object
+the visitor object handles operation on the element object
+
+
