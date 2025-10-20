@@ -1,0 +1,5 @@
+Behavioural Design Pattern - Visitor Pattern
+
+visitor class changes execution of an element class,
+the element object has to accept a visitor object,
+visitor object handles operation on the element object

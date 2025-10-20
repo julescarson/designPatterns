@@ -6,6 +6,7 @@ import designPatterns.facade.facadeMain
 import designPatterns.observer.observerMain
 import designPatterns.singleton.singletonMain
 import designPatterns.strategyPattern.strategyMain
+import designPatterns.visitor.visitorMain
 
 
 fun main() {
@@ -26,4 +27,7 @@ fun main() {
 
     // Observer Pattern
     observerMain()
+
+    // Visitor Pattern
+    visitorMain()
 }
