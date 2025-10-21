@@ -10,7 +10,7 @@
 - Facade ✅
 - Adapter
 - Decorator
-- Proxy
+- Proxy ✅
 
 ### Behavioural
 - Strategy ✅
