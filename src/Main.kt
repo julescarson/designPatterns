@@ -7,6 +7,7 @@ import designPatterns.observer.observerMain
 import designPatterns.singleton.singletonMain
 import designPatterns.strategyPattern.strategyMain
 import designPatterns.visitor.visitorMain
+import designPatterns.proxy.proxyMain
 
 
 fun main() {
@@ -30,4 +31,7 @@ fun main() {
 
     // Visitor Pattern
     visitorMain()
+
+    // Proxy Main
+    proxyMain()
 }
