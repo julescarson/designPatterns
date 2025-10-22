@@ -4,7 +4,7 @@
 - Factory ✅
 - Abstract Factory ✅
 - Singleton ✅
-- Builder
+- Builder ✅
 
 ### Structural
 - Facade ✅
