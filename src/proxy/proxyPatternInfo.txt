@@ -2,6 +2,9 @@ Structural Design Pattern
 a class represents the functionality of another class
 a placeholder for another object to control access to it
 
+an intermediary for another object to control access to that object
+aka "surrogate"
+
 
 Image interface and concrete classes implementing it
 ProxyImage to reduce the memory footprint of RealImage object loading
