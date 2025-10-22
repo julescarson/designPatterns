@@ -8,6 +8,7 @@ import designPatterns.singleton.singletonMain
 import designPatterns.strategyPattern.strategyMain
 import designPatterns.visitor.visitorMain
 import designPatterns.proxy.proxyMain
+import designPatterns.builder.builderMain
 
 
 fun main() {
@@ -34,4 +35,7 @@ fun main() {
 
     // Proxy Main
     proxyMain()
+
+    // Builder Main
+    builderMain()
 }

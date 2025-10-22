@@ -1,4 +1,14 @@
 Creational Design Pattern
 
-build complex objects using simple objects
+build complex objects using simple objects,
 step-by-step approach
+Builder class builds the final object step by step
+the Builder is independent of the other objects
+example is a restaurant building a meal
+
+Item interface
+concrete item classes (burger, drink)
+Packing interface
+packaging of food items in their concrete sandwich wrapper or bottle,
+Meal class - List of Item,
+MealBuilder to build different types of meals that combine items

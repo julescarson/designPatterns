@@ -6,6 +6,7 @@ fun proxyMain() {
     image.display()
 
     image.display()
+    println("-")
 
 
 }
