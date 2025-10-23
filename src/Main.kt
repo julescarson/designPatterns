@@ -9,33 +9,20 @@ import designPatterns.strategyPattern.strategyMain
 import designPatterns.visitor.visitorMain
 import designPatterns.proxy.proxyMain
 import designPatterns.builder.builderMain
+import designPatterns.composite.compositeMain
 
 
 fun main() {
-    // Factory Pattern
+
     factoryMain()
-
-    // Abstract Factory Pattern
     abstractFactoryMain()
-
-    // Facade Pattern
     facadeMain()
-
-    // Singleton Pattern
     singletonMain()
-
-    // Strategy Pattern
     strategyMain()
-
-    // Observer Pattern
     observerMain()
-
-    // Visitor Pattern
     visitorMain()
-
-    // Proxy Main
     proxyMain()
-
-    // Builder Main
     builderMain()
+    compositeMain()
+
 }

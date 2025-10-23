@@ -1,0 +1,6 @@
+Structural Design Pattern
+
+Treat a group of objects in a similar way to a single object
+Tree structure of a group of objects
+
+useful example, a UI component has children, accessing the children of a component are same type of object
