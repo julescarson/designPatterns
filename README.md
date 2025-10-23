@@ -8,6 +8,7 @@
 
 ### Structural
 - Facade ✅
+- Composite
 - Adapter
 - Decorator
 - Proxy ✅
