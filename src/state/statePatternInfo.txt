@@ -1,0 +1,7 @@
+Behavioural Pattern
+
+class behaviour changes based on its state
+create objects to represent states
+context object whose behaviour changes as its state object changes
+context gets and sets the state
+diff states have diff behaviour

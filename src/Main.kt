@@ -10,6 +10,7 @@ import designPatterns.visitor.visitorMain
 import designPatterns.proxy.proxyMain
 import designPatterns.builder.builderMain
 import designPatterns.composite.compositeMain
+import designPatterns.state.stateMain
 
 
 fun main() {
@@ -24,5 +25,6 @@ fun main() {
     proxyMain()
     builderMain()
     compositeMain()
+    stateMain()
 
 }
