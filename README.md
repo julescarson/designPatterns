@@ -9,7 +9,7 @@
 ### Structural
 - Facade ✅
 - Composite ✅
-- Adapter
+- Adapter ✅
 - Decorator
 - Proxy ✅
 
