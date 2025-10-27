@@ -1,0 +1,6 @@
+Structural Design Pattern
+
+2 interfaces - bridge
+'a bridge between two incompatible interfaces (different from bridge pattern)'
+a single class joins the functionalities of the independent incompatible interfaces
+EX: Card reader as an adapter between memory card and laptop

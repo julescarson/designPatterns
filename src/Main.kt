@@ -11,6 +11,7 @@ import designPatterns.proxy.proxyMain
 import designPatterns.builder.builderMain
 import designPatterns.composite.compositeMain
 import designPatterns.state.stateMain
+import designPatterns.adapter.adapterMain
 
 
 fun main() {
@@ -26,5 +27,6 @@ fun main() {
     builderMain()
     compositeMain()
     stateMain()
+    adapterMain()
 
 }
